@@ -1,2 +1,4 @@
 # Visual-Prompt-Studio
-This is my prompt portfolio for my Art Appreciation Class
+** Name** Ayushman Pokharel
+**Course**Art Appreciation 1301-20
+**description**This is my prompt portfolio for my Art Appreciation Class
